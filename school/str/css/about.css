@@ -1,0 +1,102 @@
+*{
+	margin: 0 0 0 0 ;
+	cursor: default;
+}
+a{
+	cursor: pointer;
+	text-decoration: none;
+	color: black;
+}
+body{
+	background-color: #ffefd5;
+}
+/*menu*/
+.menu{
+	position: flex;
+}
+h1{
+	font-size: 48px;
+	text-align: center;
+	padding-top: 10px;	
+}
+hr{
+
+	margin-top: 20px;
+	width: 95%;
+	color: #000;
+	border: 1px solid black;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.menu_verx{
+	padding-top: 5px;
+	text-align: center;
+	opacity: 0.8;
+}
+.menu_verx a{
+	color: silver;
+	opacity: 1;
+}
+/* меню навигация */
+.menu_niz{
+	text-align: center;
+	margin-top: 20px;
+	font-weight: 600;
+}
+.menu_niz1{
+	margin-right: 7%;
+}
+.menu_niz2{
+	margin-right: 7%;
+}
+.menu_niz3{
+
+}
+.menu_niz a{
+
+	font-size: 24px;
+	padding: 5px;
+	border: 1px solid;
+
+	transition: 1s;
+}
+.menu_niz_glavnaya{
+	margin-bottom: 30px;
+	text-align: center;
+}
+.menu_niz a:hover{
+	background-color: #f5f5dc;
+}
+
+/* Контент */
+.vmist_ab{
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	border: 1px solid black;
+
+	margin-top: 30px;
+	text-align: center;
+	font-size: 64px;
+	font-weight: 600;
+}
+.vmist_text{
+	margin-left: 5%;
+	margin-top: 20px;
+	font-size: 42px;
+}
+.vmist_photo{
+	margin-top: 50px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.vmist_pochatok{
+	margin-left: 15px;
+}
+
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
